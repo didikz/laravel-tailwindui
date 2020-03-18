@@ -6,6 +6,7 @@ Just wondering how amazing Tailwindui is able to create such many beautiful ui c
 
 - [Laravel 7](https://laravel.com/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Tailwind CSS Frontend Preset for Laravel](https://github.com/laravel-frontend-presets/tailwindcss)
 - [Tailwindui](https://tailwindui.com/)
 - [Alpinejs](https://github.com/alpinejs/alpine)
 
