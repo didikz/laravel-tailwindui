@@ -2,6 +2,8 @@
 
 Just wondering how amazing Tailwindui is able to create such many beautiful ui component. As a former backend engineer who familiar with Laravel, I want to play around with Tailwindcss and Tailwindui (only free / open component) in this project.
 
+Visit [Demo App](http://fathomless-caverns-92546.herokuapp.com/login) to view the result.
+
 ## Stacks
 
 - [Laravel 7](https://laravel.com/)
