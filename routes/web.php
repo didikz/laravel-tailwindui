@@ -31,6 +31,9 @@ Route::get('/teams/detail', function() {
 })->name('teamdetail');
 
 Route::get('/teams/edit', function() {
-    return view('resources.teamedit');
+    $applications = ['Backend Engineer', 'Frontend Engineer', 'QA Engineer', 'Project Manager'];
+    $availabilities = ['soon', '1-month', 'closed'];
+    $workingPreferences = ['on site', 'remote'];
+    return view('resources.teamedit', compact('applications', 'availabilities', 'workingPreferences'));
 })->name('teamedit');
 
